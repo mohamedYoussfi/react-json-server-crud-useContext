@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 4500,
+      "checked": false
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 1200,
+      "checked": "true"
+    },
+    {
+      "id": 3,
+      "name": "lmlmlm",
+      "price": "700",
+      "checked": "false"
+    },
+    {
+      "id": 5,
+      "name": "nb",
+      "price": 0,
+      "checked": true
+    },
+    {
+      "name": "nb",
+      "price": 0,
+      "checked": false,
+      "id": 6
+    },
+    {
+      "name": "m",
+      "price": "56",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "m",
+      "price": "56",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "m",
+      "price": "56",
+      "checked": false,
+      "id": 9
+    },
+    {
+      "name": "m",
+      "price": "56",
+      "checked": false,
+      "id": 10
+    },
+    {
+      "name": "m",
+      "price": "56",
+      "checked": false,
+      "id": 11
+    },
+    {
+      "name": "m",
+      "price": "56",
+      "checked": false,
+      "id": 12
+    },
+    {
+      "name": "m",
+      "price": "56",
+      "checked": false,
+      "id": 13
+    },
+    {
+      "name": "m",
+      "price": "56",
+      "checked": false,
+      "id": 14
+    }
+  ]
+}
